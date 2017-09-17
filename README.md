@@ -158,7 +158,13 @@ By default, this package uses the `https://` URL for the API.  If for some reaso
 $ptv->dontUseHttps();
 ```
 
-### TODO
+## TODO
 
-* Add full documentation for each API method
+* Expand documentation
 * Add tests
+
+## Authors
+
+* **Nick Morton** - nick.john.morton@gmail.com
+
+This package is provided as is, please do not contact me for support.
